@@ -1,10 +1,12 @@
 # CO2-emissions-Exporatory-data-analysis
 
 Summary
+
 To take note of:
 Thorough Exploratory Data Analysis is an instrument tool when exploring a new dataset
 
 Questions
+
 What are independent variables, and how do they affect training machine learning algorithms? How does one handle them?
 
 Multicollinearity, and its effects on data quality and how to resolve its effects
